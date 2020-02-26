@@ -6,7 +6,7 @@ You can contact me *(lists need a carriage return before list items)*:
 
 - twitter: [@juliesquid](https://twitter.com/juliesquid)
 - github: [@jules32](https://github.com/jules32)
-
+- link to [PPR](https://raw.githubusercontent.com/andybeet/indexPPR/master/vignettes/figures/PPR-GB-0_80.png)
 
 Here is a table with some collaborators *(tables use `|`s and `-`s to separate columns and rows)*:
 
