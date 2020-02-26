@@ -1,6 +1,6 @@
 # The power of open science *(template for you to play with)*
 
-![](https://images.app.goo.gl/6zjMUoZtBeGqvSsW8)
+![](https://data.whicdn.com/images/338801840/original.gif)
 
 
 Slides (that I made in R!) for Feb 25, 2020 seminar at UMass Dartmouth SMAST: [R and teamwork for better science in less time](https://openscapes.github.io/slides/betterscience/smast#1).
