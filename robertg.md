@@ -13,7 +13,7 @@ Here is a table with some collaborators *(tables use `|`s and `-`s to separate c
 
 Name | Twitter | GitHub
 -----|---------|--------
-Andy |  | [@jandybeet(https://github.com/andybeet)
+Andy |  | [@andybeet](https://github.com/andybeet)
 
 Have you noticed the `[]()` pattern to make links in Markdown? Put words to hyperlink in `[]` and the URL in `()`. 
 
