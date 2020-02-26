@@ -1,5 +1,7 @@
 # The power of open science *(template for you to play with)*
 
+## Open Science Mode: ACTIVATE!
+
 ![](https://data.whicdn.com/images/338801840/original.gif)
 
 
