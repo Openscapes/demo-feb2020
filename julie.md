@@ -1,4 +1,4 @@
-# The power of open science *(template for you to play with)*
+## The power of open science *(template for you to play with)*
 
 Slides (that I made in R!) for Feb 25, 2020 seminar at UMass Dartmouth SMAST: [R and teamwork for better science in less time](https://openscapes.github.io/slides/betterscience/smast#1).
 
@@ -6,9 +6,10 @@ You can contact me *(lists need a carriage return before list items)*:
 
 - twitter: [@juliesquid](https://twitter.com/juliesquid)
 - github: [@jules32](https://github.com/jules32)
+- bullet
 
 
-Here is a table with some collaborators *(tables use `|`s and `-`s to separate columns and rows)*:
+Here is a table with some collaborators *(tables use `|`s an
 
 
 Name | Twitter | GitHub
