@@ -1,5 +1,15 @@
 # Openscapes GitHub Example *(template for you to play with)*
 
+Now we can put things in *italics*
+and create
+# Headers
+or 
+## Super-headers
+
+List of .md formatting skills
+- *italics*
+- **bold**
+
 Slides (that I made in R!) for Feb 25, 2020 seminar at UMass Dartmouth SMAST: [R and teamwork for better science in less time](https://openscapes.github.io/slides/betterscience/smast#1).
 
 You can contact me *(lists need a carriage return before list items)*: 
