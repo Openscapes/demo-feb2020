@@ -1,4 +1,4 @@
-# The power of open science *(template for you to play with)*
+# Openscapes GitHub Example *(template for you to play with)*
 
 Slides (that I made in R!) for Feb 25, 2020 seminar at UMass Dartmouth SMAST: [R and teamwork for better science in less time](https://openscapes.github.io/slides/betterscience/smast#1).
 
@@ -20,5 +20,6 @@ Have you noticed the `[]()` pattern to make links in Markdown? Put words to hype
 
 You can include an image with the same `[]()` pattern, with an additional preceding exclamation point: `![]()`. From the browser, you'll need an image with an existing url. 
 
-![](https://octodex.github.com/images/labtocat.png)
+![](https://i.redd.it/um51o24lb1341.jpg)
 
+At the Openscapes workshop we are all baby yodas!
