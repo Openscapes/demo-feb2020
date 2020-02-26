@@ -5,7 +5,7 @@ Slides (that I made in R!) for Feb 26, 2020 seminar at NEFSC: [R and teamwork fo
 You can contact me *(lists need a carriage return before list items)*: 
 
 - twitter: [I don't have a twitter](https://twitter.com/)
-- github: [@jules32](https://github.com/jules32)
+- github: [@leeyuhc](https://github.com/leeyuhc)
 
 
 Here is a table with some collaborators *(tables use `|`s and `-`s to separate columns and rows)*:
