@@ -12,10 +12,10 @@ Here is a table with some collaborators *(tables use `|`s and `-`s to separate c
 
 
 Name | Twitter | GitHub
------|--empty line?-------|--------
+-----|---------|--------
 Jamie | [@jafflerbach](https://twitter.com/jafflerbach) | [@jafflerbach](https://github.com/jafflerbach)
 Melanie |  | [@Melsteroni](https://github.com/Melsteroni)
-
+Leah | [@leahmcrowe](https://twitter.com/jafflerbach) |
 Have you noticed the `[]()` pattern to make links in Markdown? Put words to hyperlink in `[]` and the URL in `()`. 
 
 You can include an image with the same `[]()` pattern, with an additional preceding exclamation point: `![]()`. From the browser, you'll need an image with an existing url. 
