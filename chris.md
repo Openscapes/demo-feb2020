@@ -7,6 +7,8 @@ A list of fun links
 1. [R3 the game](https://github.com/cmlegault/R3)
 1. [NEFSC Pop Dy](https://www.nefsc.noaa.gov/read/popdy/)
 
+> Here is a block quote that sets the text off from the rest of the page. Kind of neat to see how it works. Hard to come up with text off the top of my head to make it look reasonable.
+
 
 You can contact me *(lists need a carriage return before list items)*: 
 
