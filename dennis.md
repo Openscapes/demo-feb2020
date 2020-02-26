@@ -4,9 +4,14 @@ Slides (that I made in R!) for Feb 25, 2020 seminar at UMass Dartmouth SMAST: [R
 
 You can contact me *(lists need a carriage return before list items)*: 
 
-- twitter: [@juliesquid](https://twitter.com/juliesquid)
-- github: [@jules32](https://github.com/jules32)
+- twitter: [@dmcorvi](https://twitter.com/dmcorvi)
+- github: [@dcorvi](https://github.com/dcorvi)
 
+Website portfolio
+
+Website | Link 
+-----|---------
+Mass Bay Staffing | [Mass Bay Staffing](http://www.massbaystaffing.com/)
 
 Here is a table with some collaborators *(tables use `|`s and `-`s to separate columns and rows)*:
 
