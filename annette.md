@@ -4,7 +4,7 @@ Link to Data Jam: [NES-LTER Data Jam](https://sites.google.com/view/nes-lter-sch
 
 You can contact me *(lists need a carriage return before list items)*: 
 
-- twitter: [@juliesquid](https://twitter.com/juliesquid); Stace not on Twitter # but she should be or she won't learn as much as Annette
+- twitter: [@juliesquid](https://twitter.com/juliesquid); Stace not on Twitter **but she should be or she won't learn as much as Annette**
 
 - github: [@jules32](https://github.com/jules32); [sbeaulieu](https://github.com/sbeaulieu)
 
