@@ -2,6 +2,12 @@
 
 Slides (that I made in R!) for Feb 25, 2020 seminar at UMass Dartmouth SMAST: [R and teamwork for better science in less time](https://openscapes.github.io/slides/betterscience/smast#1).
 
+A list of fun links
+
+1 [R3 the game](https://github.com/cmlegault/R3)
+1 [NEFSC Pop Dy](https://www.nefsc.noaa.gov/read/popdy/)
+
+
 You can contact me *(lists need a carriage return before list items)*: 
 
 - twitter: [@juliesquid](https://twitter.com/juliesquid)
