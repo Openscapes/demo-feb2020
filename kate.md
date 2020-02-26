@@ -1,4 +1,6 @@
-# The power of open science *(template for you to play with)*
+# The power of open science 
+# the hashtag makes it bold *(template for you to play with)*
+*italics?* not italics
 
 Slides (that I made in R!) for Feb 25, 2020 seminar at UMass Dartmouth SMAST: [R and teamwork for better science in less time](https://openscapes.github.io/slides/betterscience/smast#1).
 
