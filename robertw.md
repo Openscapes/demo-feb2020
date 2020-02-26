@@ -7,6 +7,18 @@ You can contact me *(lists need a carriage return before list items)*:
 - twitter: [@juliesquid](https://twitter.com/juliesquid)
 - github: [@jules32](https://github.com/jules32)
 
+~ this is a tilda
+~~ two tildas
+* star
+* start-surrounded text *
+^ what does a carat do?
+% oooo percentage
+---- horizonal lines
+\ one slash
+/ slash other way
+$ dolla dolla bill y'all
+'single quote'
+"double quote"
 
 Here is a table with some collaborators *(tables use `|`s and `-`s to separate columns and rows)*:
 
