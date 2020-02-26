@@ -4,8 +4,8 @@ Slides (that I made in R!) for Feb 25, 2020 seminar at UMass Dartmouth SMAST: [R
 
 A list of fun links
 
-1 [R3 the game](https://github.com/cmlegault/R3)
-1 [NEFSC Pop Dy](https://www.nefsc.noaa.gov/read/popdy/)
+1. [R3 the game](https://github.com/cmlegault/R3)
+1. [NEFSC Pop Dy](https://www.nefsc.noaa.gov/read/popdy/)
 
 
 You can contact me *(lists need a carriage return before list items)*: 
