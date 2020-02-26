@@ -14,8 +14,10 @@ Test Table
 
 Species| Number | Size (um) | Date (YYYYMMDD) | 
 -------|--------|-----------|------|
-Centropoges|562|2560|20200226|
+Centropages|562|2560|20200226|
 Calanus|340|1030|20200226|
+
+
 
 Name | Twitter | GitHub
 -----|---------|--------
