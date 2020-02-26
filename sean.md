@@ -18,6 +18,8 @@ Melanie |  | [@Melsteroni](https://github.com/Melsteroni)
 
 Have you noticed the `[]()` pattern to make links in Markdown? Put words to hyperlink in `[]` and the URL in `()`. 
 
+Link to my [Rpath repository](https://github.com/NOAA-EDAB/Rpath)
+
 You can include an image with the same `[]()` pattern, with an additional preceding exclamation point: `![]()`. From the browser, you'll need an image with an existing url. 
 
 ![](https://octodex.github.com/images/labtocat.png)
