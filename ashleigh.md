@@ -21,3 +21,4 @@ Have you noticed the `[]()` pattern to make links in Markdown? Put words to hype
 You can include an image with the same `[]()` pattern, with an additional preceding exclamation point: `![]()`. From the browser, you'll need an image with an existing url. 
 
 ![](https://media.giphy.com/media/j0eRJzyW7XjMpu1Pqd/giphy.gif)
+![](https://media.giphy.com/media/eYilisUwipOEM/giphy.gif)
