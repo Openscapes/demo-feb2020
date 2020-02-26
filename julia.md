@@ -10,6 +10,12 @@ You can contact me *(lists need a carriage return before list items)*:
 
 Here is a table with some collaborators *(tables use `|`s and `-`s to separate columns and rows)*:
 
+Test Table
+
+Species| Number | Size (um) | Date (YYYYMMDD) | 
+-------|--------|-----------|------|
+Centropoges|562|2560|20200226|
+Calanus|340|1030|20200226|
 
 Name | Twitter | GitHub
 -----|---------|--------
