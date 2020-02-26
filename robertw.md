@@ -22,6 +22,8 @@ $ dolla dolla bill y'all
 
 Those didn't work and didn't change lines.
 
+Have to use character escapes for \& and \<, but what about > (greater than)
+
 Here is a table with some collaborators *(tables use `|`s and `-`s to separate columns and rows)*:
 
 
