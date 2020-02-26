@@ -4,8 +4,8 @@ Slides (that I made in R!) for Feb 25, 2020 seminar at UMass Dartmouth SMAST: [R
 
 You can contact me *(lists need a carriage return before list items)*: 
 
-- twitter: [@juliesquid](https://twitter.com/juliesquid)
-- github: [@jules32](https://github.com/jules32)
+- twitter: [@slucey70](https://twitter.com/slucey70)
+- github: [@slucey](https://github.com/slucey)
 
 
 Here is a table with some collaborators *(tables use `|`s and `-`s to separate columns and rows)*:
