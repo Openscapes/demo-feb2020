@@ -22,5 +22,5 @@ Link to my [Rpath repository](https://github.com/NOAA-EDAB/Rpath)
 
 You can include an image with the same `[]()` pattern, with an additional preceding exclamation point: `![]()`. From the browser, you'll need an image with an existing url. 
 
-![](https://octodex.github.com/images/labtocat.png)
+![](https://external-preview.redd.it/hu3bzCiotL7kZQ8TAwgZ5pjxScT2kLOOEgyuMEeQa_8.png?auto=webp&s=5f2804344339c1ca9de844f2f8517beb9969e354)
 
