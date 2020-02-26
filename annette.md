@@ -1,10 +1,11 @@
-#The power of open science *(template for you to play with)*
+# The power of open science *(template for you to play with)*
 
-Slides (that I made in R!) for Feb 25, 2020 seminar at UMass Dartmouth SMAST: [R and teamwork for better science in less time](https://openscapes.github.io/slides/betterscience/smast#1).
+Link to Data Jam: [NES-LTER Data Jam](https://sites.google.com/view/nes-lter-schoolyard-datajam/data-jam-data-sets).
 
 You can contact me *(lists need a carriage return before list items)*: 
 
-- twitter: [@juliesquid](https://twitter.com/juliesquid); Stace not on Twitter ##(but she should be or she won't learn as much as Annette)##
+- twitter: [@juliesquid](https://twitter.com/juliesquid); Stace not on Twitter # but she should be or she won't learn as much as Annette
+
 - github: [@jules32](https://github.com/jules32); [sbeaulieu](https://github.com/sbeaulieu)
 
 
