@@ -9,7 +9,7 @@ You can contact me *(lists need a carriage return before list items)*:
 
 ~ this is a tilda
 ~~ two tildas
-* star
+* star = acts the same as '-' for bullet points
 * start-surrounded text *
 ^ what does a carat do?
 % oooo percentage
@@ -19,6 +19,8 @@ You can contact me *(lists need a carriage return before list items)*:
 $ dolla dolla bill y'all
 'single quote'
 "double quote"
+
+Those didn't work and didn't change lines.
 
 Here is a table with some collaborators *(tables use `|`s and `-`s to separate columns and rows)*:
 
