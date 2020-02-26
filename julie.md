@@ -9,7 +9,7 @@ You can contact me *(lists need a carriage return before list items)*:
 - bullet
 
 
-Here is a table with some collaborators *(tables use `|`s an
+ensp ensp ensp Here is a table with some collaborators *(tables use `|`s an
 
 
 
