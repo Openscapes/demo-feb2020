@@ -1,5 +1,5 @@
 # The power of open science *(template for you to play with)*
-Min-Yang is the best economist in the quad.
+Min-Yang is the second best economist in the quad.
 
 Slides (that I made in R!) for Feb 25, 2020 seminar at UMass Dartmouth SMAST: [R and teamwork for better science in less time](https://openscapes.github.io/slides/betterscience/smast#1).
 
